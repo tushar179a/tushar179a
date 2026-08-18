@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharsaini1508&label=Profile%20views&color=0e75b6&style=flat" alt="tusharsaini1508" /> </p>
 
-<p align="left"> <a href="https://twitter.com/tusharsaini1508" target="blank"><img src="https://img.shields.io/twitter/follow/tusharsaini?logo=twitter&style=for-the-badge" alt="tusharsaini1508" /></a> </p>
+<p align="left"> <a href="https://twitter.com/tusharsaini1508" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="tusharsaini1508" /></a> </p>
 
 - 🌱 I’m currently learning **Python**
 

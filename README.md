@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharsaini1508&label=Profile%20views&color=0e75b6&style=flat" alt="tusharsaini1508" /> </p>
 
-<p align="left"> <a href="https://twitter.com/tusharsaini1508" target="blank"><img src="https://img.shields.io/twitter/follow/tusharsaini1508?logo=twitter&style=for-the-badge" alt="tusharsaini1508" /></a> </p>
+<p align="left"> <a href="https://twitter.com/tusharsaini1508" target="blank"><img src="https://img.shields.io/twitter/follow/tusharsaini?logo=twitter&style=for-the-badge" alt="tusharsaini1508" /></a> </p>
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [Git HuB](https://github.com/tusharsaini1508)
+- 👨‍💻 All of my projects are available at [Git HuB](https://github.com/tushar179a/tushar179a)
 
 - 📝 I regularly write articles on [Posts](https://www.linkedin.com/in/tushar-saini-83791723b/)
 
